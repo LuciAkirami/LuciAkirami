@@ -22,7 +22,7 @@ I'm Luci Akirami, a passionate programmer and explorer in the world of AI/ML, pr
 
 ### 📫 Get in Touch
 
-- 💬 Email: LuciferAkirami#5852
+- 💬 Discord: LuciferAkirami#5852
 
 ### 🤝 Let's Collaborate
 
