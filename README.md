@@ -56,4 +56,6 @@ I'm always open to collaborating on interesting projects. Whether it's an AI exp
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical&quote=Why%20do%20we%20fall,%20Bruce?%20So%20we%20can%20learn%20to%20handle%20Option%20and%20Result" />
 </p>
 
+[![An image of @luciakirami's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/luciakirami)](https://holopin.io/@luciakirami)
+
 Thanks for visiting my GitHub profile! 🚀
