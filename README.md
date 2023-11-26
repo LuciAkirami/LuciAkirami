@@ -8,7 +8,7 @@ I'm Luci Akirami, a passionate programmer and explorer in the world of AI/ML, pr
 
 - 🦀 **Rust Explorer:** I've just started out with Rust and I'm excited about its potential. Currently, I'm exploring this crab and trying to build something from it.
 
-- 🌐 **JavaScript Lover:** Web development has always fascinated me. I enjoy creating interactive and visually appealing web applications using JavaScript and its various frameworks.
+- 🌐 **JavaScript/Typescript Lover:** Web development has always fascinated me. I enjoy creating interactive and visually appealing web applications using JavaScript and its various frameworks.
 
 
 ### 🔧 My Tech Stack
