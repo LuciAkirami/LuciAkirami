@@ -42,7 +42,7 @@ I'm always open to collaborating on interesting projects. Whether it's an AI exp
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuciAkirami&theme=radical&hide_border=false"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciAkirami&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciAkirami&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide=jupyter%20notebook" />
 </p>
 
 <p align="center">
